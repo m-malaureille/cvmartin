@@ -22,7 +22,7 @@
  .contactos-texto {
    color: #ffffff;
     text-align: center;
-    font: 400 40px 'IM FELL Double Pica SC', sans-serif;
+    font: 400 40px , sans-serif;
     position: absolute;
     left: 51.08px;
    top: 258.91px;
@@ -44,7 +44,7 @@
  .conocimientos-texto {
    color: #ffffff;
     text-align: center;
-    font: 400 40px 'IM FELL Double Pica SC', 'IM FELL Double Pica SC';
+    font: 400 40px 
     position: absolute;
     left: 783.09px;
    top: 240.91px;
@@ -67,7 +67,7 @@
  .experiencia-texto {
    color: #ffffff;
     text-align: center;
-    font: 400 40px 'IM FELL Double Pica SC', 'IM FELL Double Pica SC';
+    font: 400 40px 
     position: absolute;
     left: 1151.09px;
    top: 240.91px;
@@ -90,7 +90,7 @@
  .datos-personales-texto {
    color: #ffffff;
     text-align: center;
-    font: 400 40px 'IM FELL Double Pica SC', 'IM FELL Double Pica SC';
+    font: 400 40px 
     position: absolute;
     left: 419.08px;
    top: 240.91px;
@@ -113,7 +113,7 @@
  .texto {
    color: #ffffff;
     text-align: left;
-    font: 400 45px 'IM FELL Double Pica SC', 'IM FELL Double Pica SC';
+    font: 400 45px
     position: absolute;
     left: 613px;
    top: 500px;
@@ -142,7 +142,7 @@
  .texto-titulo {
    color: #ffffff;
     text-align: center;
-    font: 400 70px 'IM FELL Double Pica SC', 'IM FELL Double Pica SC';
+    font: 400 70px 
     position: absolute;
     left: 427px;
    top: 41px;
@@ -154,8 +154,6 @@
  
  @font-face {
     color: #ffffff;
-    font-family: 'IM FELL Double Pica SC';
-    src: url("Datos\IMFellDoublePicaSC-Regular") format("truetype");
     font-style: normal;
     font-weight: normal;
  }
