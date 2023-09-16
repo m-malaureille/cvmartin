@@ -2,7 +2,7 @@
     box-sizing: border-box;
     }
  .fondo {
-   background: #eff0f4;
+   background: #0823f1;
     width: 1440px;
     height: 1024px;
     position: relative;
@@ -10,7 +10,7 @@
    }
  
  .conocimientos-fondo {
-   background: #f12f08;
+   background: #0823f1;
     border-radius: 20px;
     width: 293px;
     height: 149px;
@@ -33,7 +33,7 @@
    justify-content: center}
  
  .experiencia-fondo {
-   background: #f12f08;
+   background: #0823f1;
     border-radius: 20px;
     width: 293px;
     height: 149px;
@@ -79,7 +79,7 @@
    justify-content: center}
  
  .texto-fondo {
-   background: #f12f08;
+   background: #0823f1;
     border-radius: 20px;
     width: 872px;
     height: 435px;
@@ -109,7 +109,7 @@
    }
  
  .fondo-titulo {
-   background: #e73512;
+   background: #0823f1;
     width: 1440px;
     height: 164px;
     position: absolute;
