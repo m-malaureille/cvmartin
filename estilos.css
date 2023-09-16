@@ -2,7 +2,7 @@
     box-sizing: border-box;
     }
  .fondo {
-   background: #dd0b0b;
+   background: #0b11c7;
     width: 1440px;
     height: 1024px;
     position: relative;
@@ -10,7 +10,7 @@
    }
  
  .contactos-boton {
-   background: #180d77;
+   background: #9d250d;
     border-radius: 20px;
     width: 293px;
     height: 149px;
@@ -32,7 +32,7 @@
    justify-content: center}
  
  .conocimientos-fondo {
-   background: #11770d;
+   background: #9d250d;
     border-radius: 20px;
     width: 293px;
     height: 149px;
@@ -55,7 +55,7 @@
    justify-content: center}
  
  .experiencia-fondo {
-   background: #11770d;
+   background: #9d250d;
     border-radius: 20px;
     width: 293px;
     height: 149px;
@@ -78,7 +78,7 @@
    justify-content: center}
  
  .datos-personales {
-    background: #11770d;
+    background: #9d250d;
     border-radius: 20px;
     width: 293px;
     height: 149px;
@@ -101,7 +101,7 @@
    justify-content: center}
  
  .texto-fondo {
-   background: #11770d;
+   background: #9d250d;
     border-radius: 20px;
     width: 872px;
     height: 435px;
@@ -131,7 +131,7 @@
    }
  
  .fondo-titulo {
-   background: #11770d;
+   background: #9d250d;
     width: 1440px;
     height: 164px;
     position: absolute;
